@@ -17,7 +17,7 @@ sections:
       Escola Profissional.
     actions:
       - type: Button
-        label: Sobre Mi
+        label: Sobre Mim
         altText: ''
         url: /
         showIcon: true
