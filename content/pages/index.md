@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       OLÁ, SOU UM DOS ALUNOS DA OFICINA-ESCOLA PROFISSONAL, NO CURSO DE GESTÃO E
       PROGRAMAÇÃO DE SISTEMAS INFORMÁTICOS.
