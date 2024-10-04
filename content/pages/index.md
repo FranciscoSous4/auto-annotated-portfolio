@@ -16,7 +16,9 @@ sections:
     title: >-
       OLÁ, SOU UM DOS ALUNOS DA OFICINA-ESCOLA PROFISSONAL, NO CURSO DE GESTÃO E
       PROGRAMAÇÃO DE SISTEMAS INFORMÁTICOS.
-    subtitle: Estes são alguns dos trabalhos que foram desenvolvidos
+    subtitle: >-
+      Estes são alguns dos trabalhos que foram desenvolvidos por mim enquanto
+      aluno da OFICINA, trabalhos estes desenvolvidos em programação.
     styles:
       self:
         height: auto
